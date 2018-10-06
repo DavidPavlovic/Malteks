@@ -4,6 +4,8 @@ $(document).ready(function() {
         $(this).toggleClass('open');
     });
 
+    Setup();
+
     var $findme = $('#numbers');
     var exec = false;
     
