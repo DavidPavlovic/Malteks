@@ -1,0 +1,25 @@
+.partneri {
+  border-bottom: solid 0.6px #dddddd;
+  border-left: solid 0.6px #dddddd;
+  border-right: solid 0.6px #dddddd;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px; }
+  .partneri img {
+    display: block;
+    float: left;
+    margin: 1% 0 1% 1%;
+    width: 18.66%; }
+    .partneri img:nth-child(1) {
+      position: relative;
+      top: 30px; }
+      @media only screen and (max-width: 480px) {
+        .partneri img:nth-child(1) {
+          top: 20px; } }
+    @media only screen and (max-width: 480px) {
+      .partneri img {
+        width: 50%;
+        margin: 1% 0 1% 0%; } }
+  .partneri div {
+    margin-top: 20px; }
+
+/*# sourceMappingURL=clients.css.map */

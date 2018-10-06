@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Baloo-Thambi';
+  src: url("../fonts/BalooThambi-Regular.eot?");
+  src: url("../fonts/BalooThambi-Regular.eot?#iefix") format("embedded-opentype");
+  src: url("../fonts/BalooThambi-Regular.woff2") format("woff2");
+  src: url("../fonts/BalooThambi-Regular.woff") format("woff");
+  src: url("../fonts/BalooThambi-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: 'Montserrat';
+  src: url("../fonts/Montserrat-Regular.eot?");
+  src: url("../fonts/Montserrat-Regular.eot?#iefix") format("embedded-opentype");
+  src: url("../fonts/Montserrat-Regular.woff2") format("woff2");
+  src: url("../fonts/Montserrat-Regular.woff") format("woff");
+  src: url("../fonts/Montserrat-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: 'Montserrat-Bold';
+  src: url("../fonts/Montserrat-ExtraBold.eot?");
+  src: url("../fonts/Montserrat-ExtraBold.eot?#iefix") format("embedded-opentype");
+  src: url("../fonts/Montserrat-ExtraBold.woff2") format("woff2");
+  src: url("../fonts/Montserrat-ExtraBold.woff") format("woff");
+  src: url("../fonts/Montserrat-ExtraBold.ttf") format("truetype"); }
+
+/*# sourceMappingURL=mixins.css.map */

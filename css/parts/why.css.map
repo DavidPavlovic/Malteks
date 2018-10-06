@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,SAAG;EACC,UAAU,EAAE,MAAM;EAElB,YAAG;IACC,MAAM,EAAE,MAAM",
+"sources": ["../../sass/parts/why.scss"],
+"names": [],
+"file": "why.css"
+}
